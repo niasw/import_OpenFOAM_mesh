@@ -6,7 +6,7 @@
   Tested OpenFOAM 10 example case: `$FOAM_TUTORIALS/incompressible/icoFoam/cavity/cavity`
 
 ## install
-  Download file `import_OpenFOAM_mesh.py`.
+  Download file `io_import_OpenFOAM_mesh.py`.
   Open Blender, Click `Edit` -> `Preferences` -> `Add-ons` -> `Install...`.
   Select the `io_import_OpenFOAM_mesh.py` downloaded previously.
   Check the box of `OpenFOAM Mesh Importer` addon.
