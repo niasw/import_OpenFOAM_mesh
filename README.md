@@ -8,7 +8,7 @@
 ## install
   Download file `import_OpenFOAM_mesh.py`.
   Open Blender, Click `Edit` -> `Preferences` -> `Add-ons` -> `Install...`.
-  Select the `import_OpenFOAM_mesh.py` downloaded previously.
+  Select the `io_import_OpenFOAM_mesh.py` downloaded previously.
   Check the box of `OpenFOAM Mesh Importer` addon.
 
 ## Usage
@@ -16,11 +16,11 @@
   Select the polyMesh directory (eg. "constant/polyMesh" under case directory) and import.
 
 ## File Statement
-  import_OpenFOAM_mesh.py: main core of the mesh importer addon.
+  io_import_OpenFOAM_mesh.py: main core of the mesh importer addon.
   cavity: test example from OpenFOAM 10 tutorial. select this folder when testing the addon.
 
 ## Dependency
-  [openfoamparser](https://github.com/ApolloLV/openfoamparser): Corresponding parts have already been integrated in `import_OpenFOAM_mesh.py`.
+  [openfoamparser](https://github.com/ApolloLV/openfoamparser): Corresponding parts have already been integrated in `io_import_OpenFOAM_mesh.py`.
   numpy: already bundled with Blender>=2.80.
   Therefore, no additional installation needed for dependency requirements.
 
