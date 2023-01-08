@@ -20,7 +20,7 @@
   cavity: test example from OpenFOAM 10 tutorial. select this folder when testing the addon.
 
 ## Dependency
-  [openfoamparser](https://github.com/ApolloLV/openfoamparser): Corresponding parts have already been integrated in `io_import_OpenFOAM_mesh.py`.
+  [openfoamparser](https://github.com/ApolloLV/openfoamparser): Corresponding parts have already been integrated in `io_import_OpenFOAM_mesh.py` and bug fixed.
   numpy: already bundled with Blender>=2.80.
   Therefore, no additional installation needed for dependency requirements.
 

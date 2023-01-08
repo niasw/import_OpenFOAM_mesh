@@ -16,7 +16,7 @@ bl_info = {
 MIT License
 
 OpenFOAM Mesh Importer:
-Copyright (c) 2022 Sun Smallwhite
+Copyright (c) 2023 Sun Smallwhite
 
 openfoamparser:
 Copyright (c) 2017 dayigu, 2019 Jan Drees, Timothy-Edward-Kendon, YuyangL
